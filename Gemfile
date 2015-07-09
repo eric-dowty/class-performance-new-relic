@@ -10,6 +10,7 @@ gem 'fabrication'
 gem 'faker'
 gem 'rails_12factor', group: :production
 gem 'skylight'
+
 gem 'newrelic_rpm'
 
 group :development, :test do
